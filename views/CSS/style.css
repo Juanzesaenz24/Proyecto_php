@@ -1,0 +1,13 @@
+body{
+    background-color: #F4F6F9;
+}
+.wrapper{
+    position: absolute;
+}
+.content-wrapper{
+    width: 100%;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
